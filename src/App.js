@@ -25,8 +25,7 @@ function App() {
       <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
             Powered by React
-        
-        
+            
       </header>
       <div className="Game">
       <button onClick={refreshPage}>Click to reload! ↺</button>
