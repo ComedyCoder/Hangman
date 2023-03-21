@@ -1,0 +1,11 @@
+.figure-container {
+    display: flex;
+    margin: auto;
+}
+
+.lose-message h1 {
+    color: red;
+}
+.win-message h1 {
+    color: greenyellow;
+}
